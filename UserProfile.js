@@ -202,7 +202,8 @@ const styles = StyleSheet.create({
     height: 150, // Height for the cover photo
     overflow: 'hidden',
     borderRadius: 10, // Optional: rounded corners
-    marginBottom: -50, // Overlap the profile picture
+    marginTop: 20,
+    marginBottom: -80, // Overlap the profile picture
   },
   coverPhoto: {
     width: '100%',
